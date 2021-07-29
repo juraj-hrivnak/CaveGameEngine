@@ -12,4 +12,4 @@ An easy to use Minecraft tool for map makers, designed to be performant and mult
 - Source Engine-style grabbing
 - Various VFX
 
-All ready to use!
+Documentation is under construction!
