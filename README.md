@@ -1,3 +1,4 @@
+![GitHub Logo](CGE.png)
 # CaveGameEngine
 An easy to use Minecraft tool for map makers, designed to be performant and multiplayer compatible.
 
