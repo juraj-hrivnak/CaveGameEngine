@@ -1,6 +1,6 @@
 ![GitHub Logo](CGE.png)
 # CaveGameEngine
-An easy to use Minecraft tool for map makers, designed to be performant and multiplayer compatible.
+Is an easy to use Minecraft tool for map makers, designed to be performant and multiplayer compatible.
 
 ## So far, It can:
 - Detect entities death position
